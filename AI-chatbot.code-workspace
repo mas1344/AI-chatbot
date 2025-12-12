@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "AI-chatbot",
+			"path": "."
+		}
+	],
+	"settings": {
+		"taipyStudio.gUI.elementsFilePaths": [],
+		"debug.internalConsoleOptions": "neverOpen"
+	}
+}
