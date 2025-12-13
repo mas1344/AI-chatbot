@@ -89,6 +89,7 @@ Projektet är uppdelat i en tydlig pipeline där data flödar mellan olika kompo
 
 ## 📸 Skärmdumpar
 
+![Chatbot](assets/chatbot.png)
 
 
 > **Exempel:** Här ser vi hur agenten svarar på en fråga om "API trafiklab" och samtidigt anger källfilen den använde.
